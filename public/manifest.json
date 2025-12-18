@@ -1,0 +1,24 @@
+{
+  "short_name": "GrowthHack",
+  "name": "GrowthHack - Jouw persoonlijke groeicoach",
+  "description": "GrowthHack - Jouw persoonlijke groeicoach voor professionele ontwikkeling",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#9333ea",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
