@@ -26,7 +26,9 @@ const SplashScreen: React.FC<SplashScreenProps> = ({ onNameSubmit }) => {
                         Welkom bij GrowthHack
                     </h1>
                     <p className="text-gray-600">
-                        Start je groeitraject door jezelf voor te stellen
+                        Volg de groeitrajecten van je medewerkers.
+                        <br />
+                        Stel jezelf nog even voor:
                     </p>
                 </div>
 
